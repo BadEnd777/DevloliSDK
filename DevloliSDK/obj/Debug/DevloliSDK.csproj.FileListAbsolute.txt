@@ -1,0 +1,81 @@
+D:\SelfBot\DevloliSDK\DevloliSDK\obj\Debug\DevloliSDK.csproj.AssemblyReference.cache
+D:\SelfBot\DevloliSDK\DevloliSDK\obj\Debug\DevloliSDK.csproj.CoreCompileInputs.cache
+D:\SelfBot\DevloliSDK\DevloliSDK\bin\Debug\DevloliSDK.dll
+D:\SelfBot\DevloliSDK\DevloliSDK\bin\Debug\DevloliSDK.pdb
+D:\SelfBot\DevloliSDK\DevloliSDK\bin\Debug\ExCSS.Unity.dll
+D:\SelfBot\DevloliSDK\DevloliSDK\bin\Debug\Unity.Cecil.dll
+D:\SelfBot\DevloliSDK\DevloliSDK\bin\Debug\Unity.Cecil.Mdb.dll
+D:\SelfBot\DevloliSDK\DevloliSDK\bin\Debug\Unity.Cecil.Pdb.dll
+D:\SelfBot\DevloliSDK\DevloliSDK\bin\Debug\Unity.Cecil.Rocks.dll
+D:\SelfBot\DevloliSDK\DevloliSDK\bin\Debug\Unity.CecilTools.dll
+D:\SelfBot\DevloliSDK\DevloliSDK\bin\Debug\Unity.CompilationPipeline.Common.dll
+D:\SelfBot\DevloliSDK\DevloliSDK\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\SelfBot\DevloliSDK\DevloliSDK\bin\Debug\Unity.SerializationLogic.dll
+D:\SelfBot\DevloliSDK\DevloliSDK\bin\Debug\UnityEditor.dll
+D:\SelfBot\DevloliSDK\DevloliSDK\bin\Debug\UnityEditor.Graphs.dll
+D:\SelfBot\DevloliSDK\DevloliSDK\bin\Debug\UnityEngine.dll
+D:\SelfBot\DevloliSDK\DevloliSDK\bin\Debug\UnityEditor.xml
+D:\SelfBot\DevloliSDK\DevloliSDK\bin\Debug\UnityEngine.xml
+D:\SelfBot\DevloliSDK\DevloliSDK\obj\Debug\DevloliSDK.csproj.CopyComplete
+D:\SelfBot\DevloliSDK\DevloliSDK\obj\Debug\DevloliSDK.dll
+D:\SelfBot\DevloliSDK\DevloliSDK\obj\Debug\DevloliSDK.pdb
+D:\SelfBot\DevloliSDK\DevloliSDK\bin\Debug\VRCCore-Editor.dll
+D:\SelfBot\DevloliSDK\DevloliSDK\bin\Debug\VRCCore-Standalone.dll
+D:\SelfBot\DevloliSDK\DevloliSDK\bin\Debug\VRCSDK3A-Editor.dll
+D:\SelfBot\DevloliSDK\DevloliSDK\bin\Debug\VRCSDK3A.dll
+D:\SelfBot\DevloliSDK\DevloliSDK\bin\Debug\VRCSDKBase-Editor.dll
+D:\SelfBot\DevloliSDK\DevloliSDK\bin\Debug\VRCSDKBase.dll
+D:\SelfBot\DevloliSDK\DevloliSDK\bin\Debug\System.Memory.dll
+D:\! Devloli\DevloliSDK\DevloliSDK\obj\Debug\DevloliSDK.csproj.AssemblyReference.cache
+D:\! Devloli\DevloliSDK\DevloliSDK\obj\Debug\DevloliSDK.csproj.CoreCompileInputs.cache
+D:\! Devloli\DevloliSDK\DevloliSDK\obj\Debug\DevloliSDK.dll
+D:\! Devloli\DevloliSDK\DevloliSDK\obj\Debug\DevloliSDK.pdb
+D:\! Devloli\DevloliSDK\DevloliSDK\bin\Debug\DevloliSDK.dll
+D:\! Devloli\DevloliSDK\DevloliSDK\bin\Debug\DevloliSDK.pdb
+D:\! Devloli\DevloliSDK\DevloliSDK\bin\Debug\ExCSS.Unity.dll
+D:\! Devloli\DevloliSDK\DevloliSDK\bin\Debug\Unity.Cecil.dll
+D:\! Devloli\DevloliSDK\DevloliSDK\bin\Debug\Unity.Cecil.Mdb.dll
+D:\! Devloli\DevloliSDK\DevloliSDK\bin\Debug\Unity.Cecil.Pdb.dll
+D:\! Devloli\DevloliSDK\DevloliSDK\bin\Debug\Unity.Cecil.Rocks.dll
+D:\! Devloli\DevloliSDK\DevloliSDK\bin\Debug\Unity.CecilTools.dll
+D:\! Devloli\DevloliSDK\DevloliSDK\bin\Debug\Unity.CompilationPipeline.Common.dll
+D:\! Devloli\DevloliSDK\DevloliSDK\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\! Devloli\DevloliSDK\DevloliSDK\bin\Debug\Unity.SerializationLogic.dll
+D:\! Devloli\DevloliSDK\DevloliSDK\bin\Debug\UnityEditor.dll
+D:\! Devloli\DevloliSDK\DevloliSDK\bin\Debug\UnityEditor.Graphs.dll
+D:\! Devloli\DevloliSDK\DevloliSDK\bin\Debug\UnityEngine.dll
+D:\! Devloli\DevloliSDK\DevloliSDK\bin\Debug\VRCCore-Editor.dll
+D:\! Devloli\DevloliSDK\DevloliSDK\bin\Debug\VRCCore-Standalone.dll
+D:\! Devloli\DevloliSDK\DevloliSDK\bin\Debug\VRCSDK3A-Editor.dll
+D:\! Devloli\DevloliSDK\DevloliSDK\bin\Debug\VRCSDK3A.dll
+D:\! Devloli\DevloliSDK\DevloliSDK\bin\Debug\VRCSDKBase-Editor.dll
+D:\! Devloli\DevloliSDK\DevloliSDK\bin\Debug\VRCSDKBase.dll
+D:\! Devloli\DevloliSDK\DevloliSDK\bin\Debug\System.Memory.dll
+D:\! Devloli\DevloliSDK\DevloliSDK\bin\Debug\UnityEditor.xml
+D:\! Devloli\DevloliSDK\DevloliSDK\bin\Debug\UnityEngine.xml
+D:\! Devloli\DevloliSDK\DevloliSDK\obj\Debug\DevloliSDK.csproj.CopyComplete
+D:\DevloliSDK\DevloliSDK\bin\Debug\DevloliSDK.dll
+D:\DevloliSDK\DevloliSDK\bin\Debug\DevloliSDK.pdb
+D:\DevloliSDK\DevloliSDK\bin\Debug\UnityEditor.xml
+D:\DevloliSDK\DevloliSDK\bin\Debug\UnityEngine.xml
+D:\DevloliSDK\DevloliSDK\obj\Debug\DevloliSDK.csproj.AssemblyReference.cache
+D:\DevloliSDK\DevloliSDK\obj\Debug\DevloliSDK.csproj.CoreCompileInputs.cache
+D:\DevloliSDK\DevloliSDK\obj\Debug\DevloliSDK.csproj.CopyComplete
+D:\DevloliSDK\DevloliSDK\obj\Debug\DevloliSDK.dll
+D:\DevloliSDK\DevloliSDK\obj\Debug\DevloliSDK.pdb
+D:\DevloliSDK\DevloliSDK\bin\Debug\Il2CppSystem.dll
+D:\DevloliSDK\DevloliSDK\bin\Debug\UnhollowerBaseLib.dll
+D:\DevloliSDK\DevloliSDK\bin\Debug\Il2Cppmscorlib.dll
+D:\DevloliSDK\DevloliSDK\bin\Debug\Il2CppMono.Security.dll
+D:\DevloliSDK\DevloliSDK\bin\Debug\Il2CppSystem.Configuration.dll
+D:\DevloliSDK\DevloliSDK\bin\Debug\Il2CppSystem.Xml.dll
+D:\DevloliSDK\DevloliSDK\bin\Debug\Iced.dll
+D:\DevloliSDK\DevloliSDK\bin\Debug\VRCCore-Editor.dll
+D:\DevloliSDK\DevloliSDK\bin\Debug\VRCCore-Standalone.dll
+D:\DevloliSDK\DevloliSDK\bin\Debug\UnityEngine.CoreModule.dll
+D:\DevloliSDK\DevloliSDK\bin\Debug\Il2CppSystem.Memory.dll
+D:\DevloliSDK\DevloliSDK\bin\Debug\Il2CppSystem.Threading.Tasks.Extensions.dll
+D:\DevloliSDK\DevloliSDK\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\DevloliSDK\DevloliSDK\bin\Debug\Il2CppSystem.Core.dll
+D:\DevloliSDK\DevloliSDK\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\DevloliSDK\DevloliSDK\bin\Debug\Il2CppSystem.Numerics.Vectors.dll
